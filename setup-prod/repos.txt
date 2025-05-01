@@ -1,0 +1,7 @@
+https://github.com/AngryBaer/abOS.git
+https://github.com/AngryBaer/abQT.git
+https://github.com/AngryBaer/abDocker.git
+https://github.com/AngryBaer/abMaya.git
+https://github.com/AngryBaer/abBlender.git
+https://github.com/AngryBaer/abHoudini.git
+https://github.com/AngryBaer/abUnity.git
