@@ -1,0 +1,15 @@
+
+name: react-practice
+
+services:
+  react:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./app:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=production
+      - CHOKIDAR_USEPOLLING=true
+      - HOST=0.0.0.0
